@@ -1,7 +1,7 @@
 # $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$
 ## ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ $\mathbb{\color{green}\Huge\ {Reasearch} \ \color{teal}{and \ Project \ Proposal}\}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
 
-## ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ $\mathbb{\color{green}\Huge\ {Ethio} \ \color{yellow}{Properties} \ \color{red}{List \ Website}\}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
+## $${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ $\mathbb{\color{green}\Huge\ {Ethio} \ \color{yellow}{Properties} \ \color{red}{List \ Website}\}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$$
 
 
 ### [**Ethio Properties List Website**](https://intranet.alxswe.com/projects/564) *is a Reasearch and Project Proposal project to be done in teams of 3 people or alone (solo)*
