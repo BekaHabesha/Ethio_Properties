@@ -1,5 +1,3 @@
---- MySQL Database table
-
 -- Prepares a MySQL server for the project.
 CREATE DATABASE IF NOT EXISTS etpl_dev_db;
 CREATE USER IF NOT EXISTS 'etpl_dev'@'localhost' IDENTIFIED BY 'etpl_dev_pwd';
@@ -13,22 +11,22 @@ USE etpl_dev_db;
 -- Create a table named `properties` in etpl_dev_db MySQL database:
 --
 
-DROP TABLE IF EXISTS `properties`;
+DROP TABLE IF EXISTS properties;
 
-CREATE TABLE 'properties' (
-    'id' INT AUTO_INCREMENT PRIMARY KEY,
-    'name' VARCHAR(255) NOT NULL,
-    'location' VARCHAR(255) NOT NULL,
-    'types' VARCHAR(50) NOT NULL
-);
+CREATE TABLE properties (
+     id INT AUTO_INCREMENT PRIMARY KEY,
+     name VARCHAR(255) NOT NULL,
+     location VARCHAR(255) NOT NULL,
+     types VARCHAR(50) NOT NULL
+     );
 
----
---- Populate the table with some sample data:
----
+--
+-- Populate the table with some sample data:
+--
 
-LOCK TABLES `properties` WRITE;
+LOCK TABLES properties WRITE;
 
-INSERT INTO 'properties' ('name', 'location', 'types') VALUES ('Ayat R_estate', 'Addis Ababa', 'Apartments G+Villas'),
+INSERT INTO properties (name, location, types) VALUES ('Ayat R_estate', 'Addis Ababa', 'Apartments G+Villas'),
                                                               ('Gift R_estate', 'Addis Ababa', 'Apartments G+Villas'),
                                                               ('Flintstone Homes', 'Addis Ababa', 'Apartments G+Villas'),
                                                               ('Noah R_estate', 'Addis Ababa', 'Apartments'),
